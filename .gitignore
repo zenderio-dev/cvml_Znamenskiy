@@ -11,3 +11,5 @@ __pycache__/
 31.03.2026/
 .Spotlight-V100/
 .DS_Store
+
+simple_obj_detection/shapes/*/best.pt

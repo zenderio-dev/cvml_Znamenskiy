@@ -1,0 +1,13 @@
+.venv
+./venv
+venv/
+venv
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+
+31.03.2026/
+.Spotlight-V100/
+.DS_Store

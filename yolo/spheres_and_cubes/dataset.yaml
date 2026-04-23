@@ -1,0 +1,7 @@
+path: C:\University\PC_vision\cvml_Znamenskiy\yolo\spheres_and_cubes
+train: C:\University\PC_vision\cvml_Znamenskiy\yolo\spheres_and_cubes\images\train
+val: C:\University\PC_vision\cvml_Znamenskiy\yolo\spheres_and_cubes\images\val
+nc: 2
+names:
+  0: cube
+  1: sphere

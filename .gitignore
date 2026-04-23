@@ -12,9 +12,6 @@ __pycache__/
 .Spotlight-V100/
 .DS_Store
 
-simple_obj_detection/shapes/*/best.pt
-
-simple_obj_detection/shapes/
 
 EfficientNet/data/
 EfficientNet/outputs/
